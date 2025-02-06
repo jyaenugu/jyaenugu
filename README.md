@@ -79,7 +79,7 @@
 </div>
 
 <div align="center">
-  <br><br>👑Goals👑: Chief Executive Officer(CEO)
+  <br><br>👑Goal👑: Chief Executive Officer(CEO)
   <br><br>⚖️Personal Motto⚖️ : 정직한 사람이 오래 살아남는다
   <br><br>🧑‍💻Role Model🧑‍💻: Edwin Earl Catmull (co-founder of Pixar )
   <br><br>💪Strengths💪: 추진력/ 지구력/ 리더십/ 친화력/ 창의적/ 계획적 
