@@ -56,6 +56,9 @@
   <br> 🧩[자료구조 & 알고리즘 | 만능 풀이 시리즈 (백준 python)]🧩
   <br><br>
   [![Tistory Blog](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://jyaenugu.tistory.com/category/자료구조&알고리즘/만능%20풀이%20시리즈%20(백준%20python))
+  <br><br> [티스토리로 옮길 예정인 알고리즘 문제 풀이 블로그]
+  <br><br>
+  [![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/jyaenugu/223660384101)
 
 
   
