@@ -32,13 +32,13 @@
 ---
 
  ### Scholarships
-> **GIST Government Scholarship** <br>
-**Full government scholarship (M.S. in AI Convergence, tuition + stipend)**  
+> **GIST Government Scholarship (M.S. in AI Convergence)** <br>
+**Full government scholarship (tuition + stipend)**  
 
->**Hallym Talent Scholarship** <br>
+>**Hallym Talent Scholarship (B.S. in Software)** <br>
 **Full tuition scholarship (4 semesters) based on CSAT excellence**
 
->**SW Talent Scholarship I** <br>
+>**SW Talent Scholarship I (B.S. in Software)** <br>
 **30% tuition waiver for academic excellence (3 semesters)**
 
 ---
@@ -49,7 +49,7 @@
 > [🔗 View on GitHub](https://github.com/hanseohee031/Hallym_International_Direct_Message)  
 
 > **Generative AI Use Case Essay Contest**  
-> 🏆 2nd Place, Excellence Award (President’s Award) (2025)  
+> 2nd Place, Excellence Award (President’s Award) (2025)  
 > [📰 Read Interview](https://blog.naver.com/hallymde1330/223942742289)  
 
 ---
