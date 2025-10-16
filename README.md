@@ -21,11 +21,11 @@ Hallym University | South Korea <br>
 ---
 
 ### Research Experience
-> **[Data Mining & Computational Biology Lab]( https://combio.gist.ac.kr/combio/)**
+> [Data Mining & Computational Biology Lab]( https://combio.gist.ac.kr/combio/)
 >
 > Gwangju Institute of Science and Technology | Prof.Hyunju Lee | Summer 2025
 
-> **[AI Accelerator Computing Lab]( https://sites.google.com/site/embeddedsochallymuniv/home?authuser=0)**
+> [AI Accelerator Computing Lab]( https://sites.google.com/site/embeddedsochallymuniv/home?authuser=0)
 >
 > Hallym University | Prof. Jeong-Gun Lee | Jan 2023 – Dec 2023
 
