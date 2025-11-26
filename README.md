@@ -14,6 +14,8 @@
 >
 >[![Coursework](https://img.shields.io/badge/Notion-Coursework-black?logo=notion&style=flat-square)](https://www.notion.so/Hanseohee-2959ebe1fe0c80f3ae1ede772bf1d6b7?source=copy_link)
 >[![수강목록](https://img.shields.io/badge/노션-수강목록-black?logo=notion&style=flat-square)](https://www.notion.so/2b59ebe1fe0c8058ae6bf38a51cca6c4?source=copy_link) <br>
+[![Notion – Software Capstone](https://img.shields.io/badge/Notion-Software%20Capstone-black?logo=notion&style=flat-square)](https://www.notion.so/Software-Capstone-Project-2025-2a09ebe1fe0c80fbbe5fe9084a8bc272?source=copy_link)
+
 ---
 
 ### Research Interests
