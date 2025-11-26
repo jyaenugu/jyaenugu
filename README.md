@@ -7,8 +7,7 @@
 > [Data Mining & Computational Biology Lab]( https://combio.gist.ac.kr/combio/) | **Prof.Hyunju Lee** 
 >
 >**B.S. in Software**<br>
->**March 2021 – February 2026** <br>
->**One-year academic leave** <br>
+>**March 2021 – February 2026 (One-year academic leave)** <br>
 >**Hallym University | South Korea** <br>
 > [AI Accelerator Computing Lab]( https://sites.google.com/site/embeddedsochallymuniv/home?authuser=0) | **Prof.Jeong-Gun Lee** <br>
 >
