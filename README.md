@@ -25,10 +25,14 @@
 
 ---
 
+### Interview / Media
+> [2025 Hallym University Blog](https://blog.naver.com/hallymde1330/223942742289) <br>
+> [2025 The Chosun Ilbo](https://lifenlearning.chosun.com/pan/site/data/html_dir/2025/05/27/2025052702643.html)
+
 ### Language Proficiency
 > **Korean: Native** <br>
 > **English: IELTS 7.0**
 
 ---
 
-Last updated: Nov 24, 2025
+Last updated: Nov 25, 2025
