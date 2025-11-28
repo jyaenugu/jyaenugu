@@ -21,11 +21,20 @@
 
 > **Deep Learning / Machine Learning** <br>
 
->**Pharmacogenomics / Precision Medicine** <br>
+>**Pharmacogenomics / Precision Medicine / Space Biology** <br>
 **AI-based Drug Side Effect Prediction** <br>
 
 ---
+### About Me
+>**Hobby: Watching comedy shows** <br>
+>**Religion: Hip-hop 😎** <br>
 
+>**Books: Creativity, Inc., Anxious People, The Long Win, Everything Is F*cked** <br>
+>**Shows / Animation: Moon Knight, Daredevil, Lucifer, Pixar, Garfield, Miffy**<br>
+>**Favorite Celebrities: Kwak Beom (comedian) / Cho Jung-seok (actor) / Yoon Do-hyun (singer)**  <br>
+>**Interests: Semiconductors/ Automotive Tech/ Batteries/ Space/ Future Technologies/ Startups/ Creativity/ Art**
+>
+>
 ### Interview / Media
 > [2025 Hallym University Blog](https://blog.naver.com/hallymde1330/223942742289) <br>
 > [2025 The Chosun Ilbo](https://lifenlearning.chosun.com/pan/site/data/html_dir/2025/05/27/2025052702643.html)
@@ -36,4 +45,4 @@
 
 ---
 
-Last updated: Nov 25, 2025
+Last updated: Nov 28, 2025
