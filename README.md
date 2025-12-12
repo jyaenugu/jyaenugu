@@ -3,12 +3,12 @@
 ### Education
 >**M.S. in AI Convergence** <br>
 **Spring 2026 Enrollment (Early Admission)** <br>
-**Gwangju Institute of Science and Technology | South Korea** <br>
+**Gwangju Institute of Science and Technology | 광주과학기술원 GIST | South Korea** <br>
 > [Data Mining & Computational Biology Lab]( https://combio.gist.ac.kr/combio/) | **Prof.Hyunju Lee** 
 >
 >**B.S. in Software**<br>
 >**March 2021 – February 2026 (One-year academic leave)** <br>
->**Hallym University | South Korea** <br>
+>**Hallym University | 한림대학교 | South Korea** <br>
 > [AI Accelerator Computing Lab]( https://sites.google.com/site/embeddedsochallymuniv/home?authuser=0) | **Prof.Jeong-Gun Lee** <br>
 >
 >[![Coursework](https://img.shields.io/badge/Notion-Coursework-black?logo=notion&style=flat-square)](https://www.notion.so/Hanseohee-2959ebe1fe0c80f3ae1ede772bf1d6b7?source=copy_link)
