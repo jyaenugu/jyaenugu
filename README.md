@@ -12,9 +12,9 @@
 >**Hallym University | 한림대학교 | South Korea** <br>
 > [AI Accelerator Computing Lab]( https://sites.google.com/site/embeddedsochallymuniv/home?authuser=0) | **Prof.Jeong-Gun Lee** <br>
 >
->[![Coursework]( https://img.shields.io/badge/Notion-Coursework-black?logo=notion&style=flat-square)](https://www.notion.so/Hanseohee-2959ebe1fe0c80f3ae1ede772bf1d6b7?source=copy_link)
->[![수강목록](https://img.shields.io/badge/노션-수강목록-black?logo=notion&style=flat-square)](https://www.notion.so/2b59ebe1fe0c8058ae6bf38a51cca6c4?source=copy_link)
-[![Notion – Software Capstone](https://img.shields.io/badge/Notion-Software%20Capstone-black?logo=notion&style=flat-square)](https://www.notion.so/Software-Capstone-Project-2025-2a09ebe1fe0c80fbbe5fe9084a8bc272?source=copy_link)
+>[![Coursework]( https://img.shields.io/badge/Notion-Coursework-black?logo=notion&style=flat-square)](https://www.notion.so/Software-Capstone-Project-2025-2ebab3a416ec80348fa9f853c8c821b3?source=copy_link)
+>[![수강목록](https://img.shields.io/badge/노션-수강목록-black?logo=notion&style=flat-square)](https://www.notion.so/Software-Capstone-Project-2025-2ebab3a416ec80348fa9f853c8c821b3?source=copy_link)
+[![Notion – Software Capstone](https://img.shields.io/badge/Notion-Software%20Capstone-black?logo=notion&style=flat-square)](https://www.notion.so/Software-Capstone-Project-2025-2ebab3a416ec80348fa9f853c8c821b3?source=copy_link)
 
 ---
 
